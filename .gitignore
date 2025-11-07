@@ -1,10 +1,10 @@
-# Python-generated files
 __pycache__/
-*.py[oc]
-build/
-dist/
-wheels/
-*.egg-info
-
-# Virtual environments
-.venv
+*.pyc
+.venv/
+.env
+.DS_Store
+data/
+app/assignment4/checkpoints/
+*.pt
+*.pth
+app/assignment4/checkpoints/*.pt
