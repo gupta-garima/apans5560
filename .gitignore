@@ -8,3 +8,5 @@ app/assignment4/checkpoints/
 *.pt
 *.pth
 app/assignment4/checkpoints/*.pt
+.DS_Store
+**/.DS_Store
