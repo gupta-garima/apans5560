@@ -10,13 +10,11 @@ A series of machine learning assignments building progressively from CNNs to gen
 ├── app/
 │   ├── main.py              # FastAPI app with /classify and /embed endpoints
 │   ├── embedder.py          # spaCy word/text embedding utilities
+│   ├── assignment1/         # Docker + FastAPI setup
 │   ├── assignment2/         # CIFAR-10 CNN image classifier
 │   ├── assignment3/         # GAN for MNIST digit generation
 │   ├── assignment4/         # Energy-based & Diffusion models on CIFAR-10
 │   └── assignment5/         # RL fine-tuning of GPT-2
-├── assignment1/             # Docker + FastAPI setup
-│   ├── Dockerfile
-│   └── requirements.txt
 ├── pyproject.toml
 └── uv.lock
 ```
